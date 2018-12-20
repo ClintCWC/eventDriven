@@ -1,7 +1,7 @@
 # eventDriven
 add event driven actions to your app
 
-add items/functions to your app that can be trigger when some event happens
+add items/functions to your app that can be triggered when some event happens
 
 Usage
 $config['debug_event'] =  false/true; //can be very difficult to trouble shoot when things go wrong, so enabling this will output some useful debugging info.
