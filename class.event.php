@@ -2,7 +2,7 @@
 
 /*usage
 add anywhere.. builds an array of anonymous functions (closures) to run
-$event->afterSaveSubmission[] = function(){stuff to do when even called;};
+$event->afterSaveSubmission[] = function(){stuff to do when event called;};
 
 
 add where you want events to be triggered
